@@ -7,7 +7,7 @@ Download the repo with
 git clone https://github.com/georgeunidev/frontrunningbot.git
 cd my-project
 Then edit env.json and save your changes
-
+```json
 {
     "RPC": "https://bsc-dataseed.binance.org/", 
     "CHAIN": 56, 
@@ -19,7 +19,7 @@ Then edit env.json and save your changes
     "AMOUNT_TO_BUY": "0.5" ,
     "honeypotcheck":"true"
 }
-
+```
 
 RECIPIENT = Your address to receive tokens at
 
